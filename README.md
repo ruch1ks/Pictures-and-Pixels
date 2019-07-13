@@ -11,7 +11,7 @@ Users can choose between a Pixel Inspector, Paintbrush, and a Blur Tool.
   The Blur tool allows the user to blur the image using brushes of different sizes. Blurring is done by calculating the average color of a certain region of pixels and recoloring that region. 
 
 # Installation
-This project requires Java 1.8 or higher. It can be cloned into and ran from any IDE of your choice. 
+This project requires Java 1.8 or higher. It can be cloned into and ran from any IDE of your choice. The main class is located in ImageEditor.java. 
 
 
 
