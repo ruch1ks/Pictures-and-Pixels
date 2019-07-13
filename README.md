@@ -2,7 +2,7 @@
 An application built using Java and Java Swing that allows users to modify a pre-loaded image in different ways similar to MS Paint. 
 
 # Motivation
-This was an extra credit project for my Foundations of Programming course.
+This was the final project for my Foundations of Programming course.
 
 # Features
 Users can choose between a Pixel Inspector, Paintbrush, and a Blur Tool. 
